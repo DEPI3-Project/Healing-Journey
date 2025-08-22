@@ -4,12 +4,12 @@ Start Over, We combine travel and psychotherapy in a unique experience that will
 <img width="1920" height="750" alt="Github Project Cover" src="https://github.com/user-attachments/assets/0ad5339c-10b8-46f7-897c-3e125074afa3" />
 
 ## 👥 Team Members
-- Motaz Samir Yunus Ahmed
-- Ethar Amgad Abdul Aziz
-- Hassan Amr Mohamed Selim
-- Samah Ateya Elazab Sakr
-- Mariam Ezat Samaan Dawood
-- Mostafa Sayed Abdulgayed
+- Motaz Samir Yunus Ahmed.
+- Ethar Amgad Abdul Aziz.
+- Hassan Amr Mohamed Selim.
+- Samah Ateya Elazab Sakr.
+- Mariam Ezat Samaan Dawood.
+- Mostafa Sayed Abdulgayed.
 
 ---
 
@@ -21,9 +21,9 @@ The **Healing Journey** project aims to:
 - Promotes a holistic healing journey.  
 
 The project uses:
-- **Photoshop, Illustrator, Figma** For visualization.
-- **Miro** For Project management.
-- **Survey, Interview, Google Docs** for UX and Analysis.  
+- **Photoshop, Illustrator, Figma** For (visualization).
+- **Miro** For (Project management).
+- **Survey, Interview, Google Docs** for (UX, Analysis).  
 
 ---
 
