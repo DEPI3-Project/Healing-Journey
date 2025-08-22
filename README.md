@@ -21,7 +21,7 @@ The **Healing Journey** project aims to:
 - Promotes a holistic healing journey.  
 
 The project uses:
-- **Photoshop, Illustrator, Figma** For (visualization).
+- **Photoshop, Illustrator, Figma** For (Visualization).
 - **Miro** For (Project management).
 - **Survey, Interview, Google Docs** for (UX, Analysis).  
 
