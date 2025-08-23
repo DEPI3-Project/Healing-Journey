@@ -1,5 +1,5 @@
-# Healing-Journey
-Start Over, We combine travel and psychotherapy in a unique experience that will change your life.
+# KaraKeep
+Is a mobile app that makes recycling easy by turning household waste into rewards or cash. The project aims to reduce waste, promote eco-friendly habits.
 
 <img width="1920" height="750" alt="Github Project Cover" src="https://github.com/user-attachments/assets/0ad5339c-10b8-46f7-897c-3e125074afa3" />
 
@@ -14,11 +14,11 @@ Start Over, We combine travel and psychotherapy in a unique experience that will
 ---
 
 ## 📌 Project Overview
-The **Healing Journey** project aims to:  
-- Combines travel with mental health support.
-- Offers wellness trips for recovery and relaxation.  
-- Connects users with experts and therapists.  
-- Promotes a holistic healing journey.  
+The **KaraKeep** project aims to:
+- Encourage people to recycle by offering financial rewards.
+- Make the process easy through a simple mobile app.
+- Protect the environment by reducing waste and promoting recycling.
+- Provide extra income for users by exchanging trash for cash.
 
 The project uses:
 - **Photoshop, Illustrator, Figma** For (Visualization).
